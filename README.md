@@ -105,11 +105,11 @@ The dashboard combines maintenance, thermography, fault analysis, protection sys
 
 ### Reliability and Operations Dashboard
 
-![Page 1](screenshots/Page1.png)
+![Page_1](screenshots/Page_1.png)
 
 ### Electrical Protection and Generation Analytics Dashboard
 
-![Page 2](screenshots/Page2.png)
+![Page_2](screenshots/Page_2.png)
 
 ---
 
